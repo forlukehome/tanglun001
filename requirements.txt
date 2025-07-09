@@ -9,7 +9,6 @@ flask_sqlalchemy
 folium  
 folium.plugins  
 geopandas  
-geopy  
 io  
 json  
 lightgbm  
