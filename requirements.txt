@@ -32,3 +32,4 @@ requests
 pathlib
 urllib3
 reportlab
+geopy
